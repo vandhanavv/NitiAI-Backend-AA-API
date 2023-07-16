@@ -9,7 +9,7 @@ python 1_create_consent.py
 ```
 python 1_get_consent.py
 ```
-- If the status is "ACTIVE", create a data session by running the program '3_create_datasession.py' in the terminal (POST request):
+- If the status is "ACTIVE" in the response, create a data session by running the program '3_create_datasession.py' in the terminal (POST request):
 ```
 python 3_create_datasession.py
 ```
